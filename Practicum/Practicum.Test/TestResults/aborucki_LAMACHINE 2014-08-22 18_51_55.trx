@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="72f2904c-c397-4c0d-b620-1effb59bab6c" name="aborucki@LAMACHINE 2014-08-22 18:51:55" runUser="LAMACHINE\aborucki" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="45ab3e5b-8fe1-416d-b798-f6f28f5ffcf4">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="aborucki_LAMACHINE 2014-08-22 18_51_55">
+      <DeploymentItem filename="C:\Personal\Career\Tests\Practicum\Practicum.Test\packages\Unity.2.1.505.2\lib\NET35\Microsoft.Practices.Unity.dll" />
+      <DeploymentItem filename="C:\Personal\Career\Tests\Practicum\Practicum.Domain\Practicum.Domain\bin\Debug\Practicum.Domain.dll" />
+      <DeploymentItem filename="C:\Personal\Career\Tests\Practicum\Practicum.Services\bin\Debug\Practicum.Services.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-08-22T18:51:55.6067176-05:00" queuing="2014-08-22T18:51:56.9767195-05:00" start="2014-08-22T18:51:57.0787215-05:00" finish="2014-08-22T18:51:58.8287239-05:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="c:\personal\career\tests\practicum\practicum.test\bin\debug\practicum.test.dll" id="5d8d871b-0f0f-e02b-a557-bc363b33fa19">
+      <Execution id="285cbb7c-8b98-4420-ba8e-91b2525806d9" />
+      <TestMethod codeBase="C:/Personal/Career/Tests/Practicum/Practicum.Test/bin/Debug/Practicum.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Practicum.Test.PracticumTest, Practicum.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="5d8d871b-0f0f-e02b-a557-bc363b33fa19" executionId="285cbb7c-8b98-4420-ba8e-91b2525806d9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="285cbb7c-8b98-4420-ba8e-91b2525806d9" testId="5d8d871b-0f0f-e02b-a557-bc363b33fa19" testName="TestMethod1" computerName="LAMACHINE" duration="00:00:00.1079611" startTime="2014-08-22T18:51:57.1487216-05:00" endTime="2014-08-22T18:51:58.7287238-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="285cbb7c-8b98-4420-ba8e-91b2525806d9">
+    </UnitTestResult>
+  </Results>
+</TestRun>

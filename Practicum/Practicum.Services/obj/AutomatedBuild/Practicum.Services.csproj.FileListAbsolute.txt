@@ -1,0 +1,11 @@
+C:\Personal\Career\Tests\Practicum\Practicum.Services\bin\AutomatedBuild\Practicum.Services.dll
+C:\Personal\Career\Tests\Practicum\Practicum.Services\bin\AutomatedBuild\Practicum.Services.pdb
+C:\Personal\Career\Tests\Practicum\Practicum.Services\bin\AutomatedBuild\Microsoft.Practices.Unity.Configuration.dll
+C:\Personal\Career\Tests\Practicum\Practicum.Services\bin\AutomatedBuild\Microsoft.Practices.Unity.dll
+C:\Personal\Career\Tests\Practicum\Practicum.Services\bin\AutomatedBuild\Practicum.Domain.dll
+C:\Personal\Career\Tests\Practicum\Practicum.Services\bin\AutomatedBuild\Practicum.Domain.pdb
+C:\Personal\Career\Tests\Practicum\Practicum.Services\bin\AutomatedBuild\Microsoft.Practices.Unity.xml
+C:\Personal\Career\Tests\Practicum\Practicum.Services\bin\AutomatedBuild\Microsoft.Practices.Unity.Configuration.xml
+C:\Personal\Career\Tests\Practicum\Practicum.Services\obj\AutomatedBuild\ResolveAssemblyReference.cache
+C:\Personal\Career\Tests\Practicum\Practicum.Services\obj\AutomatedBuild\Practicum.Services.dll
+C:\Personal\Career\Tests\Practicum\Practicum.Services\obj\AutomatedBuild\Practicum.Services.pdb

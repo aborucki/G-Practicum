@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="a8c7ced6-c6c9-4bdc-9669-ba6a5724687c" name="aborucki@LAMACHINE 2014-08-22 18:55:43" runUser="LAMACHINE\aborucki" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="45ab3e5b-8fe1-416d-b798-f6f28f5ffcf4">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="aborucki_LAMACHINE 2014-08-22 18_55_43">
+      <DeploymentItem filename="C:\Personal\Career\Tests\Practicum\Practicum.Test\packages\Unity.2.1.505.2\lib\NET35\Microsoft.Practices.Unity.dll" />
+      <DeploymentItem filename="C:\Personal\Career\Tests\Practicum\Practicum.Domain\Practicum.Domain\bin\Debug\Practicum.Domain.dll" />
+      <DeploymentItem filename="C:\Personal\Career\Tests\Practicum\Practicum.Services\bin\Debug\Practicum.Services.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-08-22T18:55:43.6413834-05:00" queuing="2014-08-22T18:55:44.8984006-05:00" start="2014-08-22T18:55:44.9984008-05:00" finish="2014-08-22T18:55:47.0674193-05:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="8" executed="8" passed="8" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod6" storage="c:\personal\career\tests\practicum\practicum.test\bin\debug\practicum.test.dll" id="53422fd4-2a0d-2d52-1717-039e901357f6">
+      <Execution id="9df04525-31f3-4c0f-b638-c83cc72e2dcd" />
+      <TestMethod codeBase="C:/Personal/Career/Tests/Practicum/Practicum.Test/bin/Debug/Practicum.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Practicum.Test.PracticumTest, Practicum.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod6" />
+    </UnitTest>
+    <UnitTest name="TestMethod7" storage="c:\personal\career\tests\practicum\practicum.test\bin\debug\practicum.test.dll" id="c30a6537-96f2-fea6-71ca-53a68614fd79">
+      <Execution id="24f66da9-1107-42b7-b379-f55da1595a9c" />
+      <TestMethod codeBase="C:/Personal/Career/Tests/Practicum/Practicum.Test/bin/Debug/Practicum.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Practicum.Test.PracticumTest, Practicum.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod7" />
+    </UnitTest>
+    <UnitTest name="TestMethod1" storage="c:\personal\career\tests\practicum\practicum.test\bin\debug\practicum.test.dll" id="5d8d871b-0f0f-e02b-a557-bc363b33fa19">
+      <Execution id="92a6a715-0d98-456d-9f51-32eaad716f78" />
+      <TestMethod codeBase="C:/Personal/Career/Tests/Practicum/Practicum.Test/bin/Debug/Practicum.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Practicum.Test.PracticumTest, Practicum.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+    <UnitTest name="TestMethod3" storage="c:\personal\career\tests\practicum\practicum.test\bin\debug\practicum.test.dll" id="5de196f7-1502-4450-9635-d55317016fb4">
+      <Execution id="5abbdde8-3321-411f-846f-0539cecb9769" />
+      <TestMethod codeBase="C:/Personal/Career/Tests/Practicum/Practicum.Test/bin/Debug/Practicum.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Practicum.Test.PracticumTest, Practicum.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod3" />
+    </UnitTest>
+    <UnitTest name="TestMethod5" storage="c:\personal\career\tests\practicum\practicum.test\bin\debug\practicum.test.dll" id="7a3ab5ed-1747-f1cb-a803-003deb1b80c1">
+      <Execution id="525a8703-cfa4-4e64-8ae1-c38c001735bd" />
+      <TestMethod codeBase="C:/Personal/Career/Tests/Practicum/Practicum.Test/bin/Debug/Practicum.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Practicum.Test.PracticumTest, Practicum.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod5" />
+    </UnitTest>
+    <UnitTest name="TestMethod4" storage="c:\personal\career\tests\practicum\practicum.test\bin\debug\practicum.test.dll" id="a629fb51-d901-eedb-5987-a683a2115959">
+      <Execution id="c99588f1-7611-4588-8453-1e911530dc81" />
+      <TestMethod codeBase="C:/Personal/Career/Tests/Practicum/Practicum.Test/bin/Debug/Practicum.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Practicum.Test.PracticumTest, Practicum.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod4" />
+    </UnitTest>
+    <UnitTest name="TestMethod8" storage="c:\personal\career\tests\practicum\practicum.test\bin\debug\practicum.test.dll" id="45e2f4f6-499a-91c7-a4ce-6c41f71b6493">
+      <Execution id="23e5e445-aeef-4120-8b05-e38f7314c922" />
+      <TestMethod codeBase="C:/Personal/Career/Tests/Practicum/Practicum.Test/bin/Debug/Practicum.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Practicum.Test.PracticumTest, Practicum.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod8" />
+    </UnitTest>
+    <UnitTest name="TestMethod2" storage="c:\personal\career\tests\practicum\practicum.test\bin\debug\practicum.test.dll" id="93b5e82c-e4a2-74b9-6f8e-9e37275af40a">
+      <Execution id="3737b21a-c0c2-422c-ac18-64e4d5d328db" />
+      <TestMethod codeBase="C:/Personal/Career/Tests/Practicum/Practicum.Test/bin/Debug/Practicum.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Practicum.Test.PracticumTest, Practicum.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod2" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="5d8d871b-0f0f-e02b-a557-bc363b33fa19" executionId="92a6a715-0d98-456d-9f51-32eaad716f78" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="93b5e82c-e4a2-74b9-6f8e-9e37275af40a" executionId="3737b21a-c0c2-422c-ac18-64e4d5d328db" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5de196f7-1502-4450-9635-d55317016fb4" executionId="5abbdde8-3321-411f-846f-0539cecb9769" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a629fb51-d901-eedb-5987-a683a2115959" executionId="c99588f1-7611-4588-8453-1e911530dc81" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7a3ab5ed-1747-f1cb-a803-003deb1b80c1" executionId="525a8703-cfa4-4e64-8ae1-c38c001735bd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="53422fd4-2a0d-2d52-1717-039e901357f6" executionId="9df04525-31f3-4c0f-b638-c83cc72e2dcd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c30a6537-96f2-fea6-71ca-53a68614fd79" executionId="24f66da9-1107-42b7-b379-f55da1595a9c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="45e2f4f6-499a-91c7-a4ce-6c41f71b6493" executionId="23e5e445-aeef-4120-8b05-e38f7314c922" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="92a6a715-0d98-456d-9f51-32eaad716f78" testId="5d8d871b-0f0f-e02b-a557-bc363b33fa19" testName="TestMethod1" computerName="LAMACHINE" duration="00:00:00.1107669" startTime="2014-08-22T18:55:45.1284010-05:00" endTime="2014-08-22T18:55:46.8344154-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="92a6a715-0d98-456d-9f51-32eaad716f78">
+    </UnitTestResult>
+    <UnitTestResult executionId="3737b21a-c0c2-422c-ac18-64e4d5d328db" testId="93b5e82c-e4a2-74b9-6f8e-9e37275af40a" testName="TestMethod2" computerName="LAMACHINE" duration="00:00:00.0008958" startTime="2014-08-22T18:55:46.8554166-05:00" endTime="2014-08-22T18:55:46.8604169-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3737b21a-c0c2-422c-ac18-64e4d5d328db">
+    </UnitTestResult>
+    <UnitTestResult executionId="5abbdde8-3321-411f-846f-0539cecb9769" testId="5de196f7-1502-4450-9635-d55317016fb4" testName="TestMethod3" computerName="LAMACHINE" duration="00:00:00.0006626" startTime="2014-08-22T18:55:46.8734176-05:00" endTime="2014-08-22T18:55:46.8974190-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5abbdde8-3321-411f-846f-0539cecb9769">
+    </UnitTestResult>
+    <UnitTestResult executionId="c99588f1-7611-4588-8453-1e911530dc81" testId="a629fb51-d901-eedb-5987-a683a2115959" testName="TestMethod4" computerName="LAMACHINE" duration="00:00:00.0007614" startTime="2014-08-22T18:55:46.8974190-05:00" endTime="2014-08-22T18:55:46.9074190-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c99588f1-7611-4588-8453-1e911530dc81">
+    </UnitTestResult>
+    <UnitTestResult executionId="525a8703-cfa4-4e64-8ae1-c38c001735bd" testId="7a3ab5ed-1747-f1cb-a803-003deb1b80c1" testName="TestMethod5" computerName="LAMACHINE" duration="00:00:00.0007623" startTime="2014-08-22T18:55:46.9274191-05:00" endTime="2014-08-22T18:55:46.9374191-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="525a8703-cfa4-4e64-8ae1-c38c001735bd">
+    </UnitTestResult>
+    <UnitTestResult executionId="9df04525-31f3-4c0f-b638-c83cc72e2dcd" testId="53422fd4-2a0d-2d52-1717-039e901357f6" testName="TestMethod6" computerName="LAMACHINE" duration="00:00:00.0006801" startTime="2014-08-22T18:55:46.9374191-05:00" endTime="2014-08-22T18:55:46.9474191-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9df04525-31f3-4c0f-b638-c83cc72e2dcd">
+    </UnitTestResult>
+    <UnitTestResult executionId="24f66da9-1107-42b7-b379-f55da1595a9c" testId="c30a6537-96f2-fea6-71ca-53a68614fd79" testName="TestMethod7" computerName="LAMACHINE" duration="00:00:00.0006608" startTime="2014-08-22T18:55:46.9574191-05:00" endTime="2014-08-22T18:55:46.9574191-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="24f66da9-1107-42b7-b379-f55da1595a9c">
+    </UnitTestResult>
+    <UnitTestResult executionId="23e5e445-aeef-4120-8b05-e38f7314c922" testId="45e2f4f6-499a-91c7-a4ce-6c41f71b6493" testName="TestMethod8" computerName="LAMACHINE" duration="00:00:00.0006754" startTime="2014-08-22T18:55:46.9674191-05:00" endTime="2014-08-22T18:55:47.0074192-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="23e5e445-aeef-4120-8b05-e38f7314c922">
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,5 @@
+C:\Personal\Career\Tests\build\Practicum.ConsoleApp.exe
+C:\Personal\Career\Tests\build\Practicum.ConsoleApp.pdb
+C:\Personal\Career\Tests\Practicum\Practicum.Console\obj\x86\AutomatedBuild\ResolveAssemblyReference.cache
+C:\Personal\Career\Tests\Practicum\Practicum.Console\obj\x86\AutomatedBuild\Practicum.ConsoleApp.exe
+C:\Personal\Career\Tests\Practicum\Practicum.Console\obj\x86\AutomatedBuild\Practicum.ConsoleApp.pdb

@@ -1,0 +1,5 @@
+C:\Personal\Career\Tests\Practicum\PracticumConsole\bin\Debug\PracticumConsole.exe
+C:\Personal\Career\Tests\Practicum\PracticumConsole\bin\Debug\PracticumConsole.pdb
+C:\Personal\Career\Tests\Practicum\PracticumConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Personal\Career\Tests\Practicum\PracticumConsole\obj\x86\Debug\PracticumConsole.exe
+C:\Personal\Career\Tests\Practicum\PracticumConsole\obj\x86\Debug\PracticumConsole.pdb

@@ -1,0 +1,16 @@
+C:\Personal\Career\Tests\Practicum\PracticumTest\bin\Debug\Practicum.Test.dll
+C:\Personal\Career\Tests\Practicum\PracticumTest\bin\Debug\Practicum.Test.pdb
+C:\Personal\Career\Tests\Practicum\PracticumTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Personal\Career\Tests\Practicum\PracticumTest\obj\Debug\Practicum.Test.dll
+C:\Personal\Career\Tests\Practicum\PracticumTest\obj\Debug\Practicum.Test.pdb
+C:\Personal\Career\Tests\Practicum\Practicum.Test\bin\Debug\Practicum.Test.dll
+C:\Personal\Career\Tests\Practicum\Practicum.Test\bin\Debug\Practicum.Test.pdb
+C:\Personal\Career\Tests\Practicum\Practicum.Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Personal\Career\Tests\Practicum\Practicum.Test\obj\Debug\Practicum.Test.dll
+C:\Personal\Career\Tests\Practicum\Practicum.Test\obj\Debug\Practicum.Test.pdb
+C:\Personal\Career\Tests\Practicum\Practicum.Test\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Personal\Career\Tests\Practicum\Practicum.Test\bin\Debug\Practicum.Domain.dll
+C:\Personal\Career\Tests\Practicum\Practicum.Test\bin\Debug\Practicum.Services.dll
+C:\Personal\Career\Tests\Practicum\Practicum.Test\bin\Debug\Practicum.Domain.pdb
+C:\Personal\Career\Tests\Practicum\Practicum.Test\bin\Debug\Practicum.Services.pdb
+C:\Personal\Career\Tests\Practicum\Practicum.Test\bin\Debug\Microsoft.Practices.Unity.xml

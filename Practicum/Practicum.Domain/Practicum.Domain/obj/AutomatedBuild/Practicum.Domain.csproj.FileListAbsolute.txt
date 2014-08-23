@@ -1,0 +1,5 @@
+C:\Personal\Career\Tests\Practicum\Practicum.Domain\Practicum.Domain\bin\AutomatedBuild\Practicum.Domain.dll
+C:\Personal\Career\Tests\Practicum\Practicum.Domain\Practicum.Domain\bin\AutomatedBuild\Practicum.Domain.pdb
+C:\Personal\Career\Tests\Practicum\Practicum.Domain\Practicum.Domain\obj\AutomatedBuild\ResolveAssemblyReference.cache
+C:\Personal\Career\Tests\Practicum\Practicum.Domain\Practicum.Domain\obj\AutomatedBuild\Practicum.Domain.dll
+C:\Personal\Career\Tests\Practicum\Practicum.Domain\Practicum.Domain\obj\AutomatedBuild\Practicum.Domain.pdb
